@@ -1,0 +1,31 @@
+# 簡易説明書
+
+### 作者
+永井拓志
+
+### アプリ名
+othello
+
+#### コンセプト
+コンソール上でCPUとオセロで対戦
+
+### リポジトリ
+https://github.com/nagaisyuukatuyou/othello.git
+
+##開発環境
+### 開発環境
+VisualStudio
+.NET Framework
+
+### 開発言語
+Java
+
+### 動作対象端末・OS
+Windows
+
+## アプリケーション機能一覧
+
+### 機能一覧
+- 先攻後攻選択
+- 実行環境選択
+- 本編
